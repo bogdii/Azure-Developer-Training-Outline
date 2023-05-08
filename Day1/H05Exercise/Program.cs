@@ -12,6 +12,9 @@ namespace B01WebClient
     {
         static void Main(string[] args)
         {
+
+            //Implement a program that uses the WebClient class to download an image from a URL and save it to a local folder.
+
             Console.WriteLine("Enter the image that you want to download");
             string image = Console.ReadLine();
             WebClient client = new WebClient();

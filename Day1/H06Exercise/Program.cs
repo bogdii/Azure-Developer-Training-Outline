@@ -10,6 +10,8 @@ namespace H06Exercise
     {
         static void Main(string[] args)
         {
+
+            //Create a program that uses loops to generate the Fibonacci sequence up to a given number 'n'.
             Console.Write("Enter a number n: ");
             int n = int.Parse(Console.ReadLine());
 

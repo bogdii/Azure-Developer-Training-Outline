@@ -12,6 +12,9 @@ namespace H04Exercise
     {
         static void Main(string[] args)
         {
+
+            //Create a program that uses a loop and a conditional statement to print all prime numbers between 1 and 100.
+
             bool isPrime(int n)
             {
                 if (n == 1 || n == 0) // eleminating 0 and 1
