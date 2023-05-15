@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01StoredProccedures", "P01StoredProccedures\P01StoredProccedures.csproj", "{05CAB673-448E-40E1-A008-9B2739D3AA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02UploadAndDownloadBlobs", "P02UploadAndDownloadBlobs\P02UploadAndDownloadBlobs.csproj", "{9E4F9C7D-1E40-4356-8F02-7ED197E36250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03AzureTableStorage", "P03AzureTableStorage\P03AzureTableStorage.csproj", "{C5AA8BAF-4501-4CF6-A88E-A9285E389B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04FileStorage", "P04FileStorage\P04FileStorage.csproj", "{0D257B90-C168-4A9D-9DF1-B0E68BE7C96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05QuequeMessages", "P05QuequeMessages\P05QuequeMessages.csproj", "{8F05696E-C499-4B90-9A8E-A1A6226D1EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CAB673-448E-40E1-A008-9B2739D3AA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CAB673-448E-40E1-A008-9B2739D3AA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CAB673-448E-40E1-A008-9B2739D3AA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CAB673-448E-40E1-A008-9B2739D3AA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4F9C7D-1E40-4356-8F02-7ED197E36250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4F9C7D-1E40-4356-8F02-7ED197E36250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4F9C7D-1E40-4356-8F02-7ED197E36250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4F9C7D-1E40-4356-8F02-7ED197E36250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AA8BAF-4501-4CF6-A88E-A9285E389B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AA8BAF-4501-4CF6-A88E-A9285E389B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AA8BAF-4501-4CF6-A88E-A9285E389B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AA8BAF-4501-4CF6-A88E-A9285E389B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D257B90-C168-4A9D-9DF1-B0E68BE7C96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D257B90-C168-4A9D-9DF1-B0E68BE7C96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D257B90-C168-4A9D-9DF1-B0E68BE7C96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D257B90-C168-4A9D-9DF1-B0E68BE7C96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F05696E-C499-4B90-9A8E-A1A6226D1EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F05696E-C499-4B90-9A8E-A1A6226D1EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F05696E-C499-4B90-9A8E-A1A6226D1EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F05696E-C499-4B90-9A8E-A1A6226D1EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42B43237-354A-4E3B-B0D7-3F31673DF3E0}
+	EndGlobalSection
+EndGlobal
